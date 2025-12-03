@@ -66,6 +66,26 @@ This is a living document. Contributions, suggestions, and improvements are welc
 - **Reference guide** - Quick lookup for patterns and principles
 - **Self-paced learning** - Learn at your own speed
 
+## 📚 Recommended Books
+
+### Software Architecture & Design
+- 🔗 [The Pragmatic Programmer](https://amzn.to/4ouj4o9) - Essential practices for pragmatic developers
+- 🔗 [14 Habits of Highly Productive Developers](https://amzn.to/4rJgjm2) - Productivity habits for developers
+- 🔗 [Fundamentals of Software Architecture](https://amzn.to/4oqPVdO) - Comprehensive architecture fundamentals
+- 🔗 [Software Architecture: The Hard Parts](https://amzn.to/4pDQjqf) - Tackling difficult architecture decisions
+
+### Domain-Driven Design & Microservices
+- 🔗 [Domain-Driven Design (Vlad Khononov)](https://amzn.to/4pFv3QL) - Modern DDD approach
+- 🔗 [Building Microservices — Sam Newman](https://amzn.to/3MejhOY) - Building microservices architecture
+
+### System Design
+- 🔗 [System Design Interview – Volume 1 (Alex Xu)](https://amzn.to/3XnprPg) - System design fundamentals
+- 🔗 [System Design Interview – Volume 2 (Alex Xu)](https://amzn.to/43Y8dM0) - Advanced system design topics
+
+### Operations & Soft Skills
+- 🔗 [Chaos Engineering](https://amzn.to/49IBY7f) - Building resilient systems
+- 🔗 [How to Win Friends and Influence People](https://amzn.to/4pbq36X) - Essential soft skills for collaboration
+
 ## 🔗 Additional Resources
 
 - Books, articles, and talks on software architecture
