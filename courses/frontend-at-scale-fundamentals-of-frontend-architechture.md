@@ -10,3 +10,4 @@
     1. [Design It!](https://pragprog.com/titles/mkdsa/design-it/)
         1. "A system's software architecture is the set of significant design decisions about how the software is organized to promote desired quality attributes and other properties."
     1. [Head First Software Architecture](https://www.oreilly.com/library/view/head-first-software/9781098134341/)
+        1. Four dimensions: style, characteristics, decisions, components
