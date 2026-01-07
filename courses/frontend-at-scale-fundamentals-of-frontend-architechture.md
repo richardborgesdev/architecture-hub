@@ -11,3 +11,9 @@
         1. "A system's software architecture is the set of significant design decisions about how the software is organized to promote desired quality attributes and other properties."
     1. [Head First Software Architecture](https://www.oreilly.com/library/view/head-first-software/9781098134341/)
         1. Four dimensions: style, characteristics, decisions, components
+1. What is Frontend Architecture?
+    1. style: micro-frontends | Monolithic RSC
+    1. characteristics: scalability, deployability, maintanability | performance, agility, reliability
+    1. decisions: share globals state with signals, compose, MFEs, client-side | Share global state with store mutate data with server actions
+    1. components: Models, collections, views, templates, classes | Client components, Server components, hooks, services
+1.
