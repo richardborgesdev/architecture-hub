@@ -16,4 +16,7 @@
     1. characteristics: scalability, deployability, maintanability | performance, agility, reliability
     1. decisions: share globals state with signals, compose, MFEs, client-side | Share global state with store mutate data with server actions
     1. components: Models, collections, views, templates, classes | Client components, Server components, hooks, services
-1.
+1. Software design vs Architecture
+    1. architecture: hard to change, strategic, higher level
+    1. design: easy to change, tactical, lower level
+    1. underestimating an architectural decision x overstimating a design decision
