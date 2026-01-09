@@ -1,7 +1,7 @@
 # Frontend At Scale: Fundamentals of Frontend Architecture
 [[course link]](https://frontendatscale.com/courses/frontend-architecture/foundations/introduction/)
 
-# 1. Foundations
+## 1. Foundations
 1. What's software architecture?
     1. is about the structure of a system
 2. Who needs an architect? (Martin Fowler) [[article link]](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
@@ -20,3 +20,11 @@
     1. architecture: hard to change, strategic, higher level
     1. design: easy to change, tactical, lower level
     1. underestimating an architectural decision x overstimating a design decision
+1. The Frontend Architect Role
+    1. setting technical direction
+    1. applying architectural thinking [[youtube link]](https://www.youtube.com/watch?v=ssAgU9eYuvQ)
+        1. trade-offs
+        1. business drivers to architectural requirements
+        1. wide technical knowledge with some depth
+    1. Glue work [[article link]](https://www.noidea.dog/glue)
+        1. invisible but very important work: docs, meetings, sponsorship
