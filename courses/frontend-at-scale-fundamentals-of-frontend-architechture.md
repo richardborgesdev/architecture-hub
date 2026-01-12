@@ -28,3 +28,11 @@
         1. wide technical knowledge with some depth
     1. Glue work [[article link]](https://www.noidea.dog/glue)
         1. invisible but very important work: docs, meetings, sponsorship
+
+## Understanding
+1. Before We Start
+    1. Understanding > Design > Implementation (Not the real world process)
+    1. In real world the steps usually repeat multiples times (Microinteractions)
+1. Project Introduction
+    1. [[spec link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/project-spec.md)
+    1. System Context Diagram
