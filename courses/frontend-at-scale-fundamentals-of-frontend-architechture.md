@@ -36,3 +36,5 @@
 1. Project Introduction
     1. [[spec link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/project-spec.md)
     1. System Context Diagram
+1. The C4 model [[site link]](https://c4model.com/)
+    1. context, containers, components, code
