@@ -38,3 +38,4 @@
     1. System Context Diagram
 1. The C4 model [[site link]](https://c4model.com/)
     1. context, containers, components, code
+1. C4 exercise 1 [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/exercise-solutions/container-diagram-draft.png)
