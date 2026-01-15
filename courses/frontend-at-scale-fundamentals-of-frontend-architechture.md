@@ -38,4 +38,7 @@
     1. System Context Diagram
 1. The C4 model [[site link]](https://c4model.com/)
     1. context, containers, components, code
-1. C4 exercise 1 [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/exercise-solutions/container-diagram-draft.png)
+    1. C4 exercise 1 [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/exercise-solutions/container-diagram-draft.png)
+1. Architectural Drivers
+    1. Drivers > Requirements > Decisions
+    1. Business goals, Quality Attributes, Constraints, Requirements, Team Experience + Knowledge, technology trends > Architecture
