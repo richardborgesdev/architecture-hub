@@ -42,3 +42,6 @@
 1. Architectural Drivers
     1. Drivers > Requirements > Decisions
     1. Business goals, Quality Attributes, Constraints, Requirements, Team Experience + Knowledge, technology trends > Architecture
+1. Architectural Requirements
+    1. FullSnack Architectural Requirements Doc [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/requirements.md)
+    1. Template [[notion link]](https://charca.notion.site/Architectural-Requirements-Doc-f47fe67cd5ba408d840306e01eb38081)
