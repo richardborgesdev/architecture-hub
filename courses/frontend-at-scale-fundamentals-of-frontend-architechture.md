@@ -34,7 +34,7 @@
     1. Understanding > Design > Implementation (Not the real world process)
     1. In real world the steps usually repeat multiples times (Microinteractions)
 1. Project Introduction
-    1. [[spec link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/project-spec.md)
+    1. [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/project-spec.md)
     1. System Context Diagram
 1. The C4 model [[site link]](https://c4model.com/)
     1. context, containers, components, code
@@ -45,3 +45,17 @@
 1. Architectural Requirements
     1. FullSnack Architectural Requirements Doc [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/requirements.md)
     1. Template [[notion link]](https://charca.notion.site/Architectural-Requirements-Doc-f47fe67cd5ba408d840306e01eb38081)
+    1. Solver exercise [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/exercise-solutions/requirements-final.md)
+1. Architectural Decisions
+    1. Deciding which frontend framework to use
+    1. Version control
+    1. Codebase organization
+    1. third-party vendors
+    1. Observability and monitoring
+    1. Don't try to make every decision
+    1. Why is more important than what
+    1. ADR
+        1. Template [[github link]](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md)
+        1. Article [[article link]](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+        1. Solved ADR exercise [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/adr.md)
+1.
