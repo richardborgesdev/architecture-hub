@@ -58,4 +58,14 @@
         1. Template [[github link]](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md)
         1. Article [[article link]](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
         1. Solved ADR exercise [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/adr.md)
-1.
+
+## Designing
+1. Entities, Modules, and Components
+    1. Entities: Model, Class / Interface / Type, Service
+    1. Modules: Folder, Route / Page
+    1. Componentes: View, UI Component
+1. Domain Modeling [[article link]](https://frontendatscale.com/issues/25/)
+    1. Method for discovering Entities and describing their Attributes and Operations
+        1. Data engineering -> database schema
+        1. OOP -> classes, interfaces and hierarchy
+        1. Frontend -> structure align with UI
