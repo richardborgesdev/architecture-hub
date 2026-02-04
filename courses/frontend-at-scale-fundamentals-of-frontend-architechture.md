@@ -69,3 +69,8 @@
         1. Data engineering -> database schema
         1. OOP -> classes, interfaces and hierarchy
         1. Frontend -> structure align with UI
+    1. Exercise [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/domain-model.md)
+        1. mermaid tool [[site link]](https://mermaid.live/)
+        1. solution [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/exercise-solutions/domain-model-final.md)
+1. Breaking Things Down
+    1. Finding Modules
