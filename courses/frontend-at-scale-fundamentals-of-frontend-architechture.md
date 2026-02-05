@@ -74,3 +74,17 @@
         1. solution [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/exercise-solutions/domain-model-final.md)
 1. Breaking Things Down
     1. Finding Modules
+1. Useful diagrams
+    1. Flowcharts [[site link]](https://creately.com/guides/flowchart-guide-flowchart-tutorial/)
+    1. Statecharts [[site link]](https://stately.ai/docs/state-machines-and-statecharts)
+    1. Class diagrams [[site link]](https://www.lucidchart.com/pages/uml-class-diagram)
+    1. Sequence diagrams [[site link]](https://creately.com/guides/sequence-diagram-tutorial/)
+    1. Exercise:
+        1. Order Placement Sequence [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/sequence-diagram-1.md)
+        1. Solution [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/exercise-solutions/sequence-diagram-2.md)
+1. The Design Document
+    1. Stucture: overview, context, goals and non-goals, high level design, alternatives considered, detailed design, timeline, risks and open questions
+    1. FullSnack high-level design doc [[github link]](https://github.com/Charca/frontend-architecture-workshop/blob/main/documents/design-doc.md)
+    1. Design Docs at google [[site link]](https://www.industrialempathy.com/posts/design-docs-at-google/)
+    1. Painless functional specifications [[site link]](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
+    1. How to write a good software design doc [[site link]](https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/)
