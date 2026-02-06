@@ -88,3 +88,19 @@
     1. Design Docs at google [[site link]](https://www.industrialempathy.com/posts/design-docs-at-google/)
     1. Painless functional specifications [[site link]](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
     1. How to write a good software design doc [[site link]](https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/)
+
+## Implementing
+1. Repo [[github link]](https://github.com/Charca/fullsnack)
+    ```text
+    .
+    └── apps/
+        ├── core-api
+        ├── docs
+        ├── web/
+        │   ├── app
+        │   ├── common
+        │   ├── modules
+        │   └── public
+        └── packages
+    ```
+    1. tree folder generator [[site link]](https://tree.nathanfriend.com/)
