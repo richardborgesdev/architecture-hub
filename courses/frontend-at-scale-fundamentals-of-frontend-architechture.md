@@ -104,3 +104,13 @@
         └── packages
     ```
     1. tree folder generator [[site link]](https://tree.nathanfriend.com/)
+1. Implementing Modules
+    1. page
+    1. routes
+    1. constraints
+1. Component Hierarchy & Breakdown
+    1. Module > Screen > Feature 1...N > Component 1...N
+    1. Feature sliced [[site link]](https://feature-sliced.github.io/documentation/)
+1. Component Breakdown
+    1. figma spec [[figma link]](https://www.figma.com/design/cKot2kO0cg2PpR3QwgppXm/FullSnack-Spec?node-id=0-1&p=f&t=A7G2soKzJbj3y0Ad-0)
+    1. solution: check out the **'restaurant-module branch'** [[github link]](https://github.com/Charca/fullsnack)
