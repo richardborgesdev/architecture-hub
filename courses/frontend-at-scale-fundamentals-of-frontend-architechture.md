@@ -114,3 +114,9 @@
 1. Component Breakdown
     1. figma spec [[figma link]](https://www.figma.com/design/cKot2kO0cg2PpR3QwgppXm/FullSnack-Spec?node-id=0-1&p=f&t=A7G2soKzJbj3y0Ad-0)
     1. solution: check out the **'restaurant-module branch'** [[github link]](https://github.com/Charca/fullsnack)
+1. Implementing Entities
+    1. check out the **'restaurant-entities branch'** [[github link]](https://github.com/Charca/fullsnack)
+    1. exercise [[figma link]](https://www.figma.com/design/cKot2kO0cg2PpR3QwgppXm/FullSnack-Spec?node-id=0-1&t=WZTyl5KhUdk21WtA-0)
+    1. solution: check out the **'restaurant-entities-reviews'** branch [[github link]](https://github.com/Charca/fullsnack)
+1. Guardrails and Constraints
+    1.
