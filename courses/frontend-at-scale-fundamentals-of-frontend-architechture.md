@@ -119,4 +119,32 @@
     1. exercise [[figma link]](https://www.figma.com/design/cKot2kO0cg2PpR3QwgppXm/FullSnack-Spec?node-id=0-1&t=WZTyl5KhUdk21WtA-0)
     1. solution: check out the **'restaurant-entities-reviews'** branch [[github link]](https://github.com/Charca/fullsnack)
 1. Guardrails and Constraints
-    1.
+    1. check out the **'constraints'** branch [[github link]](https://github.com/Charca/fullsnack)
+    1. dependency cruiser [[github link]](https://github.com/sverweij/dependency-cruiser)
+    1. commonality [[site linke]](https://www.commonality.co/)
+    1. bundle size [[npm link]](https://www.npmjs.com/package/bundlesize)
+    1. perfomance budgets [[article link]](https://www.speedcurve.com/blog/performance-budgets/)
+    1. sonar lint [[vscode extension link]](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+    1. conquering complexity [[talk link]](https://gitnation.com/contents/conquering-complexity-refactoring-javascript-projects?timecode)
+
+## Wrapping up
+## Architecture Books
+1. [[Fundamentals of Software Architecture]](https://www.oreilly.com/library/view/fundamentals-of-software/9781663728357/)
+1. [[Head First Software Architecture]](https://www.oreilly.com/library/view/head-first-software/9781098134341/)
+1. [[Software Architecture for Developers]](https://leanpub.com/software-architecture-for-developers)
+1. [[Design It!]](https://pragprog.com/titles/mkdsa/design-it/)
+
+## Software Design Books
+1. [[A Philosophy of Software Design]](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
+1. [[Tidy First?]](https://www.oreilly.com/library/view/tidy-first/9781098151232/)
+
+## System Design Books
+1. [[Web Scalability for Startup Engineers]](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers/)
+1. [[Designing Data-Intensive Applications]](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+
+## Architecture Courses
+1. [[Software Design and Architecture Specialization]](https://www.coursera.org/specializations/software-design-architecture)
+1. [[Software Architecture Foundations]](https://www.linkedin.com/learning/software-architecture-foundations)
+1. [[Enterprise Architecture Patterns]](https://frontendmasters.com/courses/enterprise-patterns/)
+1. [[Introduction to Backend Architectures]](https://frontendmasters.com/courses/backend-architectures/)
+1. [[Enterprise UI Development]](https://frontendmasters.com/courses/enterprise-ui-dev/)
